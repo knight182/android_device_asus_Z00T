@@ -1,4 +1,4 @@
-add_lunch_combo lineage_Z00L-eng
-add_lunch_combo lineage_Z00L-user
-add_lunch_combo lineage_Z00L-userdebug
+add_lunch_combo lineage_Z00T-eng
+add_lunch_combo lineage_Z00T-user
+add_lunch_combo lineage_Z00T-userdebug
 
